@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "leestoolsd1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "64fe85f7-ec89-475d-8548-5b667356e9c6",
+			"database_name": "leestools-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
